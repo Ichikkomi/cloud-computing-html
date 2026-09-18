@@ -28,3 +28,14 @@ p{
     color: white;
 }
 
+.Advantages{
+    background-color: rgb(68, 96, 150);
+    color: white;
+    margin: 20px;    
+}
+.Cloud-Services-Ex{
+    background-color: white;
+    border-radius: 40px;
+    color: rgb(134, 139, 161);
+}
+
