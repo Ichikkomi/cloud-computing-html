@@ -5,7 +5,7 @@
 
 
 .web-title{
-    align-items: center;
+    text-align: center;
     background-color: rgb(208, 208, 248);
 }
 
@@ -13,6 +13,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1em;
     align-self: center;
+    text-align: center;
 }
 p{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
