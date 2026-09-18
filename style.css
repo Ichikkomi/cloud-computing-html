@@ -7,12 +7,13 @@
 .web-title{
     align-items: center;
     background-color: rgb(208, 208, 248);
-    height: 100vh;
+    height: 40vh;
 }
 
 .h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1em;
+    align-self: center;
 }
 p{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
